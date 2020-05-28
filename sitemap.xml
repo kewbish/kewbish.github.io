@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/folio/</loc>
+    <loc>kewbish.github.io/folio/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/me/</loc>
+    <loc>kewbish.github.io/me/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>kewbish.github.io/</loc>
   </url>
   
 </urlset>
